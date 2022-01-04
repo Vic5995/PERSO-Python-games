@@ -2,9 +2,9 @@
 #  2 move the snake
 #  3 control the snake
 #  4 detect collision with food
-# TODO: 5 create a scoreboard.py
-# TODO: 6 detect collision with wall
-# TODO: 7 detect collision with tail
+#  5 create a scoreboard.py
+#  6 detect collision with wall
+#  7 detect collision with tail
 import time
 from scoreboard import ScoreBoard
 from food import Food
